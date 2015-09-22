@@ -51,8 +51,7 @@
     },
     "conflict": {
         "jms/serializer": "<0.13",
-        "sonata-project/seo-bundle": "<1.1.5",
-        "sonata-project/block-bundle": "<2.2.8"
+        "sonata-project/seo-bundle": "<1.1.5"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
